@@ -6,3 +6,4 @@
 *.ids
 *.log
 */build
+*/out
